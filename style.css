@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+} 
+body{
+    background-color:#091848;
+}
+.button {
+    width: 50px;
+    height: 50px;
+    margin: 2px;
+    font-size: 25px;
+}
+.buttonh{
+    height: 105px;
+}
+.buttonw{
+    width: 105px;
+}
+
+.table{
+    border: 20px solid #5d0c0c;
+   
+}
+.textarea{
+    width: 200px;
+    margin: 15px 25px;
+    font-size: 25px;
+
+}
+.main {
+    background-color: rosybrown;
+    border: 20px solid #5d0c0c;
+    border-radius: 10px;
+    width: 266px;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%)
+}
+
